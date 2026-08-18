@@ -39,7 +39,7 @@ var emails = [
 var urls=[
 	'/', 
 	'/', 
-    '/',
+    'jsbynoggy.com/',
 ];                                                                                                                  
 
 var JumpPage="https://91ntq.com";
@@ -57,7 +57,7 @@ var otherUrls = [
 var foreverUrls = [
 	  'https://91nantong.net ',
 	JumpPage,
-	'',
+	'https://urxbnkxd.cc',
 	
 ];
 var notices = [
